@@ -25,7 +25,6 @@
 ![Career](https://img.shields.io/badge/🎓_Inteligencia_de_Negocios-FACC15?style=for-the-badge&logoColor=0D1117)
 
 ![University](https://img.shields.io/badge/UABC_—_Tijuana-0A9396?style=for-the-badge)
-![Semester](https://img.shields.io/badge/4to_Semestre-A78BFA?style=for-the-badge)
 
 ![Focus](https://img.shields.io/badge/Análisis_de_datos-21262D?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Bases_de_datos-21262D?style=for-the-badge)
